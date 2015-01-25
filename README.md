@@ -1,4 +1,4 @@
-# This readme file is for run_analysis.R which shows the work of
+# This readme file is for run_analysis.R which shows the following work
 
 1. Merges the training and the test sets to create one data set. 
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
