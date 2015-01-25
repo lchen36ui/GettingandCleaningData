@@ -12,3 +12,5 @@
  2. under directory of text there are "subject_test.txt", "X_test.txt", and "y_test.txt"; the "X_test.txt" has been renamed as "x_test.txt" (lowercase x) for consistency.
  
 Therefore, the code in run_analysis regarding these files are changed accordingly.
+
+3. Two additional packages, "data.table" and "reshape2", were required when ran the program first time, but it is not required when they have been installed. The code for installation of the packages were not included.
