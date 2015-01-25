@@ -5,3 +5,6 @@
 3. Uses descriptive activity names to name the activities in the data set 
 4. Appropriately labels the data set with descriptive activity names. 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+
+# Note
+ When extracting the UCI HAR Dataset, under directory of train there are "subject_train.txt", "X_train.txt", and "y_train.txt", the "X_train.txt" has been renamed as "x_train.txt" (lowercase x) for consistency.
