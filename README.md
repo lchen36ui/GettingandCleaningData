@@ -13,4 +13,4 @@
  
 Therefore, the code in run_analysis regarding these files are changed accordingly.
 
-In addition, two packages, "data.table" and "reshape2", were required when ran the program first time, but it is not required when they have been installed. The code for installation of the packages were not included.
+In addition, two packages, "data.table" and "reshape2", were required when ran the program from my PC first time, but it is not required when they have been installed. The code for installation of the packages were not included.
